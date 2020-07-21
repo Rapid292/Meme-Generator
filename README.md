@@ -1,4 +1,4 @@
-![Meme Generator](../main/Snapshot/memeGenerator.png)
+![Meme Generator](../Snapshot/memeGenerator.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
